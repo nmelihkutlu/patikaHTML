@@ -10,6 +10,8 @@
 [Ödev1](#ödev-1)
 
 ## Ödev 1
+
+### Soru
 İlk Web Sayfamızı Oluşturmak
 
 Eveet harika konular öğrendikten sonra sıra geldi ödevimize. Bu ödevimizde ilk web sayfamızı tasarlayacağız. Çok heyecanlı değil mi? Sizlerden istediğimiz çok basit bir şekilde öğrendiklerinizle bir web sayfası tasarlamanız.
@@ -19,6 +21,9 @@ Eveet harika konular öğrendikten sonra sıra geldi ödevimize. Bu ödevimizde 
 - Altına paragraf içerisinde neler yaptığınızı ve nelerden hoşlandığınızı yazabilirsiniz.
 - Web sitenizi kaydederken dosya adı olarak 'index.html' seçmeniz gerekmektedir.
 - Yazdığınız kodları açıklayan yorum satırları eklemeyi unutmayın.
+
+### Cevap
+**Dosya için tıklayınız: [odev1.html](https://github.com/nmelihkutlu/patikaHTML/blob/main/odev1.html)**
 
 ```html
 <!DOCTYPE html>
