@@ -7,7 +7,7 @@
 
 
 
-[Ödev1](#ödev-1)[Ödev2](#ödev-2)
+[Ödev1](#ödev-1) - [Ödev2](#ödev-2)
 
 ## Ödev 1
 
