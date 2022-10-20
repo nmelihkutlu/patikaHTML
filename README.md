@@ -7,7 +7,7 @@
 
 
 
-[Ödev1](#ödev-1) - [Ödev2](#ödev-2)
+[Ödev1](#ödev-1) - [Ödev2](#ödev-2) -  [Bölüm Sonu Ödevi](#bölüm-sonu-ödevi)
 
 ## Ödev 1
 
@@ -108,6 +108,104 @@ Bir önceki ödevimizde ilk web sayfamızı yapıp bunu kişisel sayfamız olara
     
     </ol>
     
+</body>
+</html>
+```
+
+## Bölüm Sonu Ödevi
+
+### Soru
+Bölüm sonu çalışmasını yapınız.
+### Cevap
+Çalışma aşağıdaki gibidir.
+```html
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kodluyoruz</title>
+</head>
+<body>
+    <!--Navbar- Start -->
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Ana Sayfa</a>
+                </li>
+                <li>
+                    <a href="about-us.html">Hakkımızda</a>
+                </li>
+                <li>
+                    <a href="contact.html">İletişim</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <!--Navbar- End -->
+
+    <!--Content - Start -->
+    <section>
+        <!--Article - Start -->
+        <article>
+            <h2>Birinci Yazı</h2>
+            <img height="300" src="img/image.jpg" alt="yazı 1'in resmi">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias, odio!</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Tempora tempore maxime quisquam quod.</p>
+            <p>Eligendi aspernatur explicabo molestiae adipisci!</p>
+            <ol>
+                <li>Lorem, ipsum dolor.</li>
+                <li>Debitis, amet neque.</li>
+                <li>Ex, dicta temporibus!</li>
+            </ol>
+            <hr>
+        </article>
+        <article>
+            <h2>İkinci Yazı</h2>
+            <img src="https://picsum.photos/id/27/600/300" alt="yazı 2'in resmi">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias, odio!</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Tempora tempore maxime quisquam quod.</p>
+            <p>Eligendi aspernatur explicabo molestiae adipisci!</p>
+            <ul>
+                <li>Lorem, ipsum dolor.</li>
+                <li>Dolorum, voluptate porro!</li>
+                <li>Doloribus, sequi. Temporibus!</li>
+            </ul>
+            <hr>
+        </article>
+        <article>
+            <h2>Üçüncü Yazı</h2>
+            <img src="https://picsum.photos/id/217/600/300" alt="yazı 3'in resmi">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias, odio!</p>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Tempora tempore maxime quisquam quod.</p>
+            <p>Eligendi aspernatur explicabo molestiae adipisci!</p>
+            <hr>
+        </article>
+    <!--Article - End -->
+    </section>
+    <!--Content - End -->
+    
+    <!--Footer - Start -->
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Ana Sayfa</a>
+            </li>
+            <li>
+                <a href="about.html">Hakkımızda</a>
+            </li>
+            <li>
+                <a href="contact-us.html">İletişim</a>
+            </li>
+        </ul>
+    </nav>
+    <!--Footer - End -->
 </body>
 </html>
 ```
