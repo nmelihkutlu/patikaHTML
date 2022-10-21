@@ -7,7 +7,7 @@
 
 
 
-[Ödev1](#ödev-1) - [Ödev2](#ödev-2) -  [Bölüm Sonu Ödevi](#bölüm-sonu-ödevi)
+[Ödev1](#ödev-1) - [Ödev2](#ödev-2) -  [Bölüm Sonu Ödevi](#bölüm-sonu-ödevi) - [Ödev3](#ödev-3)
 
 ## Ödev 1
 
@@ -206,6 +206,76 @@ Bölüm sonu çalışmasını yapınız.
         </ul>
     </nav>
     <!--Footer - End -->
+</body>
+</html>
+```
+
+
+## Ödev 3
+
+### Soru
+Çikolatalı Küp Tarifi
+Bu ödevimizde sevdiğimiz bir yemek ya da tatlının tarifini öğrendiğimiz bir web sitesini, HTML etiketlerini kullanarak yazmaya çalışacağız. Aşağıdaki resim size yol gösterebilir.
+Bir önceki ödevimizde ilk web sayfamızı yapıp bunu kişisel sayfamız olarak tasarlamıştık. Yeni öğrendiğimiz bilgiler dahilinde bu sayfayı geliştirmeye devam edelim. Hazır mısınız? E hadi buyurun o zaman.
+![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/html/html-odev3/figures/%C3%A7ikolatak%C3%BCpleri.PNG)
+
+
+### Cevap
+**Dosya için tıklayınız: [odev3.html](https://github.com/nmelihkutlu/patikaHTML/blob/main/odev3.html)**
+
+```html
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuru İncir Tatlısı</title>
+</head>
+<body>
+    <!--head-->
+    <section>
+        <img height="200" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-1.jpg" alt="Kuru İncir Tatlısı">
+        <h1>KURU İNCİR TATLISI</h1>
+        <a href="https://www.nefisyemektarifleri.com/kuru-incir-tatlisi-8453403/"><em>Nefis Yemek Tarifleri</em></a>
+    </section>
+    
+    <!--ingredients-->
+    <section>
+        <h2>Kuru İncir Tatlısı Tarifi Nasıl Yapılır?</h2>
+        <ol>
+            <li>Önce kuru incirleri bir kaba alarak üzerlerine sıcak su dökün ve on beş dakika yumuşamalararını sağlayın.</li>
+            <li>Suyu süzün ve incirlerin sap kısımlarını kesin.</li>
+            <li>Kesik olan kısımları içe doğru kıvırınca oluşan çukura yarım cevizleri yerleştirin.</li>
+            <li>Yayvan bir tencereye hepsini alarak üzerine 1büyük çay bardağı şekeri dökün.</li>
+            <li>2su bardağı su ilave edin.</li>
+            <li>Kaynayana kadar orta, kaynadıktan sonra kısık ateşte kapağı kapalı olarak pişirin. Bu arada sık sık kontrol edin. İncirler iyice pişip şerbeti koyulaşmaya başlayınca kapatın.</li>
+            <li>Servis etmeden on dakika kadar önce tereyağını eritip incirlerin üzerine gezdirin.</li>
+            <li>Soğuduktan sonra, kaymak veya dondurma ile servis edin.</li>
+        </ol>
+    </section>
+
+    <!--photos-->
+    <section>
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-2.jpg" alt="Tarif Resimleri">
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-3.jpg" alt="">
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-4.jpg" alt="">
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-5.jpg" alt="">
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-6.jpg" alt="">
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-7.jpg" alt="">
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-8.jpg" alt="">
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-9.jpg" alt="">
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-10.jpg" alt="">
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-11.jpg" alt="">
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-12.jpg" alt="">
+        <img height="100" src="https://i.nefisyemektarifleri.com/2020/12/01/kuru-incir-tatlisi-13.jpg" alt="">
+    </section>
+
+    <!--footer-->
+    <section>
+        <p><b>Afiyet Olsun</b></p>
+    </section>
+    
 </body>
 </html>
 ```
